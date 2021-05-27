@@ -1,3 +1,4 @@
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -12,6 +13,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Teama.Application.Queries.Roles;
 using Teama.Infrastructure.Persistence;
 
 namespace Teama.API
@@ -37,9 +39,9 @@ namespace Teama.API
             services.AddDbContext<TeamaContext>(o =>
             {
                 // o.UseLazyLoadingProxies().UseSqlServer(Configuration["connectionStrings:AppointmentsDbConnectionString"]);
-
                 o.UseSqlServer(Configuration["connectionStrings:TeamaDbConnectionString"]);
             });
+            services.AddMediatR(typeof(GetAllRolesQueryRequest));
 
         }
 

@@ -10,3 +10,15 @@ F:\Saad\My Code\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.
 F:\Saad\My Code\Teama\Teama\Teama.Infrastructure\bin\Debug\netstandard2.1\Teama.Domain.dll
 F:\Saad\My Code\Teama\Teama\Teama.Infrastructure\bin\Debug\netstandard2.1\Teama.Domain.pdb
 F:\Saad\My Code\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.Infrastructure.csproj.CopyComplete
+D:\ex\Teama\Teama\Teama.Infrastructure\bin\Debug\netstandard2.1\Teama.Infrastructure.deps.json
+D:\ex\Teama\Teama\Teama.Infrastructure\bin\Debug\netstandard2.1\Teama.Infrastructure.dll
+D:\ex\Teama\Teama\Teama.Infrastructure\bin\Debug\netstandard2.1\Teama.Infrastructure.pdb
+D:\ex\Teama\Teama\Teama.Infrastructure\bin\Debug\netstandard2.1\Teama.Domain.dll
+D:\ex\Teama\Teama\Teama.Infrastructure\bin\Debug\netstandard2.1\Teama.Domain.pdb
+D:\ex\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.Infrastructure.csprojAssemblyReference.cache
+D:\ex\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.Infrastructure.AssemblyInfoInputs.cache
+D:\ex\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.Infrastructure.AssemblyInfo.cs
+D:\ex\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ex\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.Infrastructure.csproj.CopyComplete
+D:\ex\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.Infrastructure.dll
+D:\ex\Teama\Teama\Teama.Infrastructure\obj\Debug\netstandard2.1\Teama.Infrastructure.pdb

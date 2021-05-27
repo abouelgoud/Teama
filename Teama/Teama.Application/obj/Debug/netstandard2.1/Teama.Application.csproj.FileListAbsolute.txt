@@ -7,3 +7,17 @@ F:\Saad\My Code\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.App
 F:\Saad\My Code\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.csproj.CoreCompileInputs.cache
 F:\Saad\My Code\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.dll
 F:\Saad\My Code\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.pdb
+D:\ex\Teama\Teama\Teama.Application\bin\Debug\netstandard2.1\Teama.Application.deps.json
+D:\ex\Teama\Teama\Teama.Application\bin\Debug\netstandard2.1\Teama.Application.dll
+D:\ex\Teama\Teama\Teama.Application\bin\Debug\netstandard2.1\Teama.Application.pdb
+D:\ex\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.csprojAssemblyReference.cache
+D:\ex\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.AssemblyInfoInputs.cache
+D:\ex\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.AssemblyInfo.cs
+D:\ex\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.csproj.CoreCompileInputs.cache
+D:\ex\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.dll
+D:\ex\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.pdb
+D:\ex\Teama\Teama\Teama.Application\bin\Debug\netstandard2.1\Teama.Domain.dll
+D:\ex\Teama\Teama\Teama.Application\bin\Debug\netstandard2.1\Teama.Infrastructure.dll
+D:\ex\Teama\Teama\Teama.Application\bin\Debug\netstandard2.1\Teama.Domain.pdb
+D:\ex\Teama\Teama\Teama.Application\bin\Debug\netstandard2.1\Teama.Infrastructure.pdb
+D:\ex\Teama\Teama\Teama.Application\obj\Debug\netstandard2.1\Teama.Application.csproj.CopyComplete

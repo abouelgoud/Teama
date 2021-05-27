@@ -7173,23 +7173,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\17361\\.nuget\\packages\\": {},
+    "C:\\Users\\agh\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj",
+      "projectUniqueName": "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj",
       "projectName": "Teama.Infrastructure",
-      "projectPath": "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\17361\\.nuget\\packages\\",
-      "outputPath": "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Infrastructure\\obj\\",
+      "projectPath": "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\agh\\.nuget\\packages\\",
+      "outputPath": "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\17361\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\agh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7203,8 +7203,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj": {
-              "projectPath": "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj"
+            "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj": {
+              "projectPath": "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj"
             }
           }
         }
@@ -7249,7 +7249,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

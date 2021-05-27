@@ -1,7 +1,47 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Teama.Domain\Teama.Domain.csproj" />
+    <ProjectReference Include="..\Teama.Infrastructure\Teama.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\Positions\" />
+    <Folder Include="Commands\Projects\" />
+    <Folder Include="Commands\RequestTypes\" />
+    <Folder Include="Commands\Roles\" />
+    <Folder Include="Commands\Tasks\" />
+    <Folder Include="Commands\Users\" />
+    <Folder Include="Handlers\Positions\" />
+    <Folder Include="Handlers\Projects\" />
+    <Folder Include="Handlers\RequestTypes\" />
+    <Folder Include="Handlers\Tasks\" />
+    <Folder Include="Handlers\Users\" />
+    <Folder Include="Mappers\Positions\" />
+    <Folder Include="Mappers\Projects\" />
+    <Folder Include="Mappers\RequestTypes\" />
+    <Folder Include="Mappers\Roles\" />
+    <Folder Include="Mappers\Tasks\" />
+    <Folder Include="Mappers\Users\" />
+    <Folder Include="Queries\Positions\" />
+    <Folder Include="Queries\Projects\" />
+    <Folder Include="Queries\RequestTypes\" />
+    <Folder Include="Queries\Tasks\" />
+    <Folder Include="Queries\Users\" />
+    <Folder Include="Responses\Positions\" />
+    <Folder Include="Responses\Projects\" />
+    <Folder Include="Responses\RequestTypes\" />
+    <Folder Include="Responses\Roles\" />
+    <Folder Include="Responses\Tasks\" />
+    <Folder Include="Responses\Users\" />
+  </ItemGroup>
 
 </Project>

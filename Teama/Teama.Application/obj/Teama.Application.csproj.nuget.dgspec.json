@@ -1,23 +1,93 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Application\\Teama.Application.csproj": {}
+    "D:\\ex\\Teama\\Teama\\Teama.Application\\Teama.Application.csproj": {}
   },
   "projects": {
-    "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Application\\Teama.Application.csproj": {
+    "D:\\ex\\Teama\\Teama\\Teama.Application\\Teama.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Application\\Teama.Application.csproj",
+        "projectUniqueName": "D:\\ex\\Teama\\Teama\\Teama.Application\\Teama.Application.csproj",
         "projectName": "Teama.Application",
-        "projectPath": "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Application\\Teama.Application.csproj",
-        "packagesPath": "C:\\Users\\17361\\.nuget\\packages\\",
-        "outputPath": "F:\\Saad\\My Code\\Teama\\Teama\\Teama.Application\\obj\\",
+        "projectPath": "D:\\ex\\Teama\\Teama\\Teama.Application\\Teama.Application.csproj",
+        "packagesPath": "C:\\Users\\agh\\.nuget\\packages\\",
+        "outputPath": "D:\\ex\\Teama\\Teama\\Teama.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\17361\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\agh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj": {
+                "projectPath": "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj"
+              },
+              "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj": {
+                "projectPath": "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj",
+        "projectName": "Teama.Domain",
+        "projectPath": "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj",
+        "packagesPath": "C:\\Users\\agh\\.nuget\\packages\\",
+        "outputPath": "D:\\ex\\Teama\\Teama\\Teama.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\agh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +112,12 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +133,84 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj",
+        "projectName": "Teama.Infrastructure",
+        "projectPath": "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\Teama.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\agh\\.nuget\\packages\\",
+        "outputPath": "D:\\ex\\Teama\\Teama\\Teama.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\agh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj": {
+                "projectPath": "D:\\ex\\Teama\\Teama\\Teama.Domain\\Teama.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
