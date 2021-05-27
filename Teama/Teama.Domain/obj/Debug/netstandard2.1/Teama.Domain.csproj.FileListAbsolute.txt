@@ -1,0 +1,9 @@
+F:\Saad\My Code\Teama\Teama\Teama.Domain\bin\Debug\netstandard2.1\Teama.Domain.deps.json
+F:\Saad\My Code\Teama\Teama\Teama.Domain\bin\Debug\netstandard2.1\Teama.Domain.dll
+F:\Saad\My Code\Teama\Teama\Teama.Domain\bin\Debug\netstandard2.1\Teama.Domain.pdb
+F:\Saad\My Code\Teama\Teama\Teama.Domain\obj\Debug\netstandard2.1\Teama.Domain.csprojAssemblyReference.cache
+F:\Saad\My Code\Teama\Teama\Teama.Domain\obj\Debug\netstandard2.1\Teama.Domain.AssemblyInfoInputs.cache
+F:\Saad\My Code\Teama\Teama\Teama.Domain\obj\Debug\netstandard2.1\Teama.Domain.AssemblyInfo.cs
+F:\Saad\My Code\Teama\Teama\Teama.Domain\obj\Debug\netstandard2.1\Teama.Domain.csproj.CoreCompileInputs.cache
+F:\Saad\My Code\Teama\Teama\Teama.Domain\obj\Debug\netstandard2.1\Teama.Domain.dll
+F:\Saad\My Code\Teama\Teama\Teama.Domain\obj\Debug\netstandard2.1\Teama.Domain.pdb
