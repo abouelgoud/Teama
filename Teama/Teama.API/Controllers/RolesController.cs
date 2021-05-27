@@ -26,5 +26,13 @@ namespace Teama.API.Controllers
           var result =   _Mediator.Send(query);
             return await result;
         }
+        [HttpGet("{id}")]
+        public async Task<Role> GetAsync(int id)
+        {
+            var query = new GetRoleByIdQueryRequest();
+            query.Id = id;
+            var result = _Mediator.Send(query);
+            return await result;
+        }
     }
 }

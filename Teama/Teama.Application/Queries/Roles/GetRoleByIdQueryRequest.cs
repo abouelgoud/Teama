@@ -6,7 +6,8 @@ using Teama.Domain.Entities;
 
 namespace Teama.Application.Queries.Roles
     {
-        public class GetAllRolesQueryRequest : IRequest<IEnumerable<Role>>
+        public class GetRoleByIdQueryRequest : IRequest<Role>
         {
+           public int Id { get; set; }
         }
     }

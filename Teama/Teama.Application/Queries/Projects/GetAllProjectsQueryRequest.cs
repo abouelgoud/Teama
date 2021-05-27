@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Text;
 using Teama.Domain.Entities;
 
-namespace Teama.Application.Queries.Roles
+namespace Teama.Application.Queries.Projects
     {
-        public class GetAllRolesQueryRequest : IRequest<IEnumerable<Role>>
+        public class GetAllProjectsQueryRequest : IRequest<IEnumerable<Project>>
         {
         }
     }
